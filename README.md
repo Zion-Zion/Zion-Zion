@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Zion-Zion
 - 👀 I’m interested in Data analytics for Life science / Healthtech
-- 🌱 I’m currently on a 100 Day journey of Data Analytics where I'm learning Python, Excel, SQL, Power BI and Stats.
+- 🌱 I’m currently on a 100 Day journey of Data Analytics where I'm learning Python, Excel, SQL, Power BI and Stats. (https://twitter.com/Xionne_/status/1527374592028749833?s=20&t=xn4Ahxg5i66i2FE1fsrR1Q)
 - 💞️ I’m looking to collaborate on anything about Data analytics.
 
 <!---
