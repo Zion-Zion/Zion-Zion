@@ -8,7 +8,10 @@
 
 
 
-[![Zion’s github stats](https://github-readme-stats.vercel.app/api?username=Zion-Zion)](https://github.com/Zion-Zion)
+[![Zion’s github stats](https://github-readme-stats.vercel.app/api?username=Zion-Zion&show_icons=true&theme=github_dark&show_icons=true)](https://github.com/Zion-Zion)
+
+
+
 
 <!---
 Zion-Zion/Zion-Zion is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
