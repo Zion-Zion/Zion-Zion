@@ -1,4 +1,5 @@
-- 👋 Hi, I’m Zion. Welcome to my GitHub profile
+# 👋 Hi, I’m Zion. Welcome to my GitHub profile
+## I am a Data Analyst currently majoring in Biochemistry 🧬
 - 💞️ I’m interested in Data analytics in Healthtech
 - 🌱 Currently, I am working on open source projects with other interns at HAMOYE where I am improving my skills in teamwork, storytelling with data, and presentation
 - 👀 I’m looking to collaborate on anything about Data analytics
