@@ -1,7 +1,6 @@
 # 👋 Hi, I’m Zion. Welcome to my GitHub profile
 ## I am a Data Analyst currently majoring in Biochemistry 🧬
 - 💞️ I’m interested in data analytics and I'm always looking for opportunities to learn and collaborate on new data projects.
-- 🌱 Currently, I am collaborating on open-source projects with other interns at HAMOYE, where I am improving my skills in teamwork, storytelling with data, and effective communication of insights to stakeholders.
 - 👀 I’m looking to collaborate on data analytics projects. I have experience working with a variety of tools and technologies, including Power BI, Python, and Microsoft Excel, and I am always eager to learn and expand my skill set.
 - 🛠  My stack is ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 - 🎓  When I am not working on Data projects or upskilling in Data, I learn Spanish on ![Duolingo](https://img.shields.io/badge/Duolingo-%234DC730.svg?style=for-the-badge&logo=Duolingo&logoColor=white) ***¿Cómo estás?*** 
